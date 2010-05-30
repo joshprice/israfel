@@ -15,7 +15,7 @@ Design
 
 Some of the data structures here will be useful: 
 
-http://www.cgl.uwaterloo.ca/~csk/washington/taprats/arch.html
+[http://www.cgl.uwaterloo.ca/~csk/washington/taprats/arch.html]
 
 
 Etymology
